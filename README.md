@@ -15,8 +15,6 @@ Here is a simple example of a command you must hanlde:
 >
 ```
 
-> :bulb: Error output, standard input and standard output redirections will be considered as bonuses.
-
 ## Authorized functions
 
 - malloc, free, exit, opendir, readdir, closedir, getcwd, chdir
